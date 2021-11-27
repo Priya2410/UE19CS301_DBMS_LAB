@@ -1,4 +1,4 @@
-# Contains the lab assignments for UE19CS301 - Database Management System 
+# Contains the lab assignments for UE19CS301 - DBMS
 ###  To execute each week , one must have the following :
 - PostgresSQL installed 
 - To install ``` sudo apt-get -y install postgresql ```
